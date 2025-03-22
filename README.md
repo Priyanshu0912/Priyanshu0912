@@ -21,10 +21,6 @@ I'm an indie full-stack developer and engineer building my version of the digita
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
           
-<br />
-
-#
-
 ## 📊 My Github Stats
 
    <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
