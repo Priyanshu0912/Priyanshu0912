@@ -27,7 +27,7 @@ I'm an indie full-stack developer and engineer building my version of the digita
 
 ### 📊 Stats
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknightPriyanshu0912&show_icons=true&theme=gruvbox)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
