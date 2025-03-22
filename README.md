@@ -6,7 +6,7 @@ I'm an indie full-stack developer and engineer building my version of the digita
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -25,11 +25,10 @@ I'm an indie full-stack developer and engineer building my version of the digita
 
 #
 
-### 📊 My Github Stats
----
-<br/>
-    <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## 📊 My Github Stats
+
+   <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <b>Note:</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
@@ -41,15 +40,5 @@ I'm an indie full-stack developer and engineer building my version of the digita
       <a href="www.linkedin.com/in/tpriyanshu">
          <img alt="Linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://x.com/ProD3_G">
-         <img alt="X/Twitter" title="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-      
-         
-
+         <img alt="X" title="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
    </p>
-
-#
-
-## Views 
-<a href="https://github.com/Priyanshu0912/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Priyanshu0912"></a>
-
-
