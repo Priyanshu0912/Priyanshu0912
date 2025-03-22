@@ -25,11 +25,17 @@ I'm an indie full-stack developer and engineer building my version of the digita
 
 #
 
-### 📊 Stats
+### 📊 My Github Stats
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<br/>
+    <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0912&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Priyanshu0912-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+<a href="https://github.com/Karan-Negi-2002/github-readme-activity-graph"><img alt="Activity Graph" src="(https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu0912&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+<br/>
 
 #
 
