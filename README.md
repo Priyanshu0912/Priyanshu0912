@@ -33,11 +33,3 @@ I'm an indie full-stack developer and engineer building my version of the digita
 <b>Note:</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-
-### Let's Connect: 
-   <p align="left">
-      <a href="www.linkedin.com/in/tpriyanshu">
-         <img alt="Linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://x.com/ProD3_G">
-         <img alt="X" title="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-   </p>
